@@ -6,7 +6,7 @@
  # @LastEditors: jia
  # @Description: 
  # @FilePath: /OpenWrt-360T7/diy2.sh
- # 工作，生活，健康
+ # 自定义内容
 ### 
 #
 # Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
