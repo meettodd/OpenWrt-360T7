@@ -65,7 +65,7 @@ This project uses GitHub Actions to compile OpenWrt (ImmortalWrt) firmware in th
 
 The compiled firmware is ready out-of-the-box and integrates commonly used features and plugins:
 
-- **Default IP Address**: `192.168.50.1`
+- **Default IP Address**: `192.168.10.1`
 - **Default Username**: `root`
 - **Default Password**: *None* (Empty by default; please set a password upon your first login)
 - **Default Hostname**: `360T7`
